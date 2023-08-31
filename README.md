@@ -79,7 +79,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```bash
-  git clone https://github.com/ichsansandy/library-management-ruby.git
+  git clone https://github.com/olanikegloriay/school-library.git
 ```
 
 ### Install
